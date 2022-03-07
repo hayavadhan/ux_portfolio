@@ -26,7 +26,6 @@ My role was to design and test user interface. I collaborated with development a
 ![app screenshots](assets/images/mpresso3.png)
 
 
-
 #### Mockups
 
 ![app screenshots](/assets/images/mpresso2.jpg)
