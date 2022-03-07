@@ -21,8 +21,8 @@
 title: Hayavadhan
 email: hayavadhan@gmail.com
 description: User Experience Design Portfolio of Hayavadhan.
-baseurl: "/ux_portfolio" # the subpath of your site, e.g. /blog
-url: "https://hayavadhan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.hyvdn.com/" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: hayavadhan
 dribbble_username: hayavadhan
 
