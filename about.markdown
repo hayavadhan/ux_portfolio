@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![competition analysis](/assets/images/about.png)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<br>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## I'm Hayavadhan, Product designer from Chennai. ##
+
+I'm a Certified Usability Analyst from HFI. I graduated from University of Madras with a degree in physics, and an MBA in marketing.
+
+My most recent work at Jargon Handlers was designing the interface for a voice recongnition app. My previous experience working for an advertising agency and currently leading a  team of designers & developers taught me how to balance business goals & engineering constraints while advocating for user goals.
+
+ I'm interested in front-end development and Javascript. I draw and make art to communicate ideas and I'm inspired by travelling, meeting people from various cultures. 
+I'm also interested in photography with which I can tell stories visually.
 
 
-[jekyll-organization]: https://github.com/jekyll
+<br>
+![photography](/assets/images/photography.jpg)
+
+### I'd be happy to hear from you. ###
