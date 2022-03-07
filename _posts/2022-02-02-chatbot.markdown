@@ -1,0 +1,50 @@
+---
+layout: post
+title:  🤖 Chatbot Builder
+date:   2022-02-22 08:11:42 +0530
+categories: Case Study
+image: assets/images/chatbot.png
+intro: Creating UX for this product
+---
+## Introduction
+Convobot: 
+An app to build chatbots. Chatbots are used to create conversational experience for site visitors resulting in better engagements. The app is primarily designed to create chatbots for users with zero coding skills.<br>
+> ### [Watch Demo](https://engagr.io/pre/) ###
+
+## Role
+- Conducted brainstorming sessions with developers to sketch wireframes 
+- Created a low fidelity interactive prototype with google slides to test interactions.
+- Facilitated usability testing on red routes and make corrections on critical user tasks before the development cycle.
+- Designed interface and high fidelity prototype using Adobe XD.
+
+## Challenges
+- Providing an alternative user interface to conventional flowchart model for creating conversations.
+- Creating chatbot themes
+
+## Solution
+Users of competitor chatbot builders found it difficult to create conversations with conventional UI using flowcharts.
+
+After extensive brainstorming sessions with developers I quickly sketched wireframes and created a low fidelity interactive prototype with google slides. 
+This was done in order to facilitate usability testing on red routes and make corrections on critical user tasks before the development cycle. I designed a WYSIWYG chatbot builder that is easy to use and provided a live preview of how the chat bot would look.
+
+## Deliverables
+
+
+#### Wireframes
+![chatbot screenshots](/assets/images/chatbot3.png)
+#### Mockups
+![chatbot screenshots](/assets/images/chatbot1.png)
+
+#### App logo & Graphics
+![chatbot screenshots](/assets/images/chatbot2.png)
+
+
+
+
+
+## Results
+We started our project to come up with a MVP for the launch, but we ended up creating a polished version of the app that delivered it’s promised purpose.
+
+We now have over 3000 global users creating chatbots for the websites.
+
+PS: With feedback from our customers, I designed interface for new features like multiple language support, animated backgrounds, Split-test features and more.

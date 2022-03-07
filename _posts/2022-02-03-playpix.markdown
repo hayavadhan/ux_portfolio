@@ -1,0 +1,59 @@
+---
+layout: post
+title:  🎞️ UI Design - Browser based video editor
+date:   2022-02-22 08:11:42 +0530
+categories: Case Study
+image: assets/images/trnscribr.png
+intro: Creating UX for this product
+excerpt: This is a UX case study.
+---
+
+
+## Introduction
+Playpix is browser-based video editor that makes it easier for content creators to create studio quality videos. The goal was to create an online video editor that would be easier to use and yet provide the most important features of standard video editors. We launched the app resulting in over 3000 users creating over 6000 videos.
+
+> " We are using video so much now in our business so you can imagine how excited I was to get a hold of this software. PlayPix looked like a game-changer and I wasn’t disappointed. The app really is drag and drop simple to create stunning videos we use on social media and ads. Thanks so much for this amazing tool. Highly recommended." - Andrea B. 
+
+> ### [Watch Video Demo](https://www.youtube.com/watch?v=yiIAo0oc6xU) ###
+
+## Role
+I led the design of the browser-based video editor. My responsibilities included user research, designing user flows, visual design, prototyping, user testing, incorporating user feedback into design iterations, and quality assurance. I worked with the marketing team to create app logo, social media and promotional graphics.
+
+## Challenges
+- Design timeline and multitrack editing features balancing browser constraints and ease of use to provide optimal user experience.
+
+- Reducing rendering time .
+
+## Solutions
+I compiled a list of features that our target user group would find useful. Our team then sent out a questionnaire asking for features that they would like to see on a video editor. After comparing the two , I identified the key pain points: 
+
+- People find it difficult to use video editors because they are too complicated
+- Rendering & publishing the videos are time consuming even for very short videos unless they had a powerful hardware.
+
+I created wireframes of interface to make it one of the easiest video editing app. With inputs from developers, I re-designed the interface for users to watch a preview of the video while rendering thereby reducing the perceived rendering time.
+
+With the help of front-end developers, I was able to showcase low fidelity html mockup of screens and after a few brainstorming sessions, I had gathered a clear idea on the look and feel of the product. I also conducted design iterations based on field tests and feedbacks from beta testers.
+
+## Deliverables
+
+
+
+
+
+#### Wireframes
+![Wiframes](/assets/images/playpix3.png)
+
+#### Mockups
+![app screenshots](/assets/images/playpix1.png)
+
+#### App logo & Graphics
+![logo](/assets/images/playpix2.png)
+
+
+
+## Result 
+We launched the app resulting in over 3000 users creating over 6000 videos. 
+I handled all the facets of design, wireframing, visual design, and branding. Working with developers helped me steer through the constraints of web development to provide better design solutions.
+
+#### Learnings
+I wouldn't have been able to iterate the wireframes multiple times and address the key pain points from users without the support from development team. The marketing team helped me recruit users based on the persona I created. 
