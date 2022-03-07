@@ -2,7 +2,6 @@
 layout: post
 title:  🛍️ Designing a No-Code store builder.
 date:   2022-02-22 08:11:42 +0530
-categories: Case Study
 image: assets/images/mpresso.png
 intro: Creating UX for this product
 ---
